@@ -1,2 +1,2 @@
 #!/bin/bash
-dir *|wc -l
+dir -a *|wc -l
